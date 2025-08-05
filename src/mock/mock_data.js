@@ -95,7 +95,7 @@ export const mockData = {
           "id": "site-1754403522562",
           "name": "Google测速",
           "url": "https://fiber.google.com/speedtest",
-          "description": "看看您的连接强度如何",
+          "description": "互联网速度测试",
           "icon": "/sitelogo/fiber.google.com.ico"
         },
         {
@@ -121,9 +121,9 @@ export const mockData = {
         },
         {
           "id": "site-1754419961014",
-          "name": "SWIFT",
+          "name": "SWIFT代码",
           "url": "https://bank-codes-hk.com/swift-code-checker/",
-          "description": "SWIFT代碼檢查工具",
+          "description": "SWIFT代码检查工具",
           "icon": "/sitelogo/bank-codes-hk.com.ico"
         },
         {
