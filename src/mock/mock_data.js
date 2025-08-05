@@ -45,7 +45,7 @@ export const mockData = {
           "id": "site-1754403919626",
           "name": "Gmail邮箱",
           "url": "https://mail.google.com/mail/u/0/#inbox",
-          "description": "",
+          "description": "Google免费电子邮件服务",
           "icon": "https://favicon.zhusl.com/ico?url=https://docs.google.com/spreadsheets/u/0/"
         },
         {
@@ -59,7 +59,7 @@ export const mockData = {
           "id": "site-1754404628851",
           "name": "微软邮箱",
           "url": "https://outlook.live.com/mail/0/",
-          "description": "微软Outlook邮箱",
+          "description": "Outlook电子邮件服务",
           "icon": "/sitelogo/outlook.live.com.ico"
         },
         {
