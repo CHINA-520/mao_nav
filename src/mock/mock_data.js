@@ -479,8 +479,22 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1754403048006",
+      "icon": "🔧",
+      "name": "软件工具",
+      "order": 10,
+      "sites": [
+        {
+          "id": "site-1754403148612",
+          "name": "IP地址查询",
+          "url": "https://iplark.com/search",
+          "description": "高精度IP归属地查询工具",
+          "icon": "/sitelogo/iplark.com.ico"
+        }
+      ]
     }
   ],
-  "title": "猫猫导航",
-  "_fileSha": "3940aec7d8cbd729da6cdf549d3bb6e807f84bfa"
+  "title": "我的导航"
 }
