@@ -511,7 +511,7 @@ export const mockData = {
           "id": "site-1754403522562",
           "name": "Google测速",
           "url": "https://fiber.google.com/speedtest",
-          "description": "进行速度测试，看看您家里的连接强度如何",
+          "description": "看看您的连接强度如何",
           "icon": "/sitelogo/fiber.google.com.ico"
         },
         {
