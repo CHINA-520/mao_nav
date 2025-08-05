@@ -674,7 +674,7 @@ export const mockData = {
     {
       "id": "category-1754426622597",
       "icon": "💰",
-      "name": "数字理财",
+      "name": "货币证券",
       "order": 3,
       "sites": [
         {
@@ -687,8 +687,9 @@ export const mockData = {
         {
           "id": "site-1754426875301",
           "name": "cex.io",
-          "url": "https://auth.cex.io",
-          "description": "cex.io数字货币交易平台"
+          "url": "https://cex.io",
+          "description": "cex.io数字货币交易平台",
+          "icon": "/sitelogo/cex.io.ico"
         }
       ]
     }
