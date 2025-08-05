@@ -125,6 +125,20 @@ export const mockData = {
           "url": "https://bank-codes-hk.com/swift-code-checker/",
           "description": "SWIFT代碼檢查工具",
           "icon": "/sitelogo/bank-codes-hk.com.ico"
+        },
+        {
+          "id": "site-1754420235808",
+          "name": "IP纯净度",
+          "url": "https://scamalytics.com/ip",
+          "description": "查找任意 IP 地址进行欺诈检测",
+          "icon": "/sitelogo/scamalytics.com.ico"
+        },
+        {
+          "id": "site-1754420354814",
+          "name": "CF网络测速",
+          "url": "https://speed.cloudflare.com",
+          "description": "基于 Cloudflare 测速",
+          "icon": "/sitelogo/speed.cloudflare.com.ico"
         }
       ]
     },
