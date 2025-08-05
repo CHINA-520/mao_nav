@@ -61,6 +61,13 @@ export const mockData = {
           "url": "https://outlook.live.com/mail/0/",
           "description": "微软Outlook邮箱",
           "icon": "/sitelogo/outlook.live.com.ico"
+        },
+        {
+          "id": "site-1754404845488",
+          "name": "DeepSeek",
+          "url": "https://ai-chatbot.top/",
+          "description": "完全免费且无限制使用",
+          "icon": "/sitelogo/ai-chatbot.top.ico"
         }
       ]
     },
@@ -527,6 +534,28 @@ export const mockData = {
           "url": "https://test.ustc.edu.cn",
           "description": "中国科学技术大学网络空间安全学院",
           "icon": "/sitelogo/test.ustc.edu.cn.ico"
+        }
+      ]
+    },
+    {
+      "id": "category-1754405051851",
+      "icon": "🏦",
+      "name": "网银钱包",
+      "order": 11,
+      "sites": [
+        {
+          "id": "site-1754405204260",
+          "name": "杜高斯贝",
+          "url": "https://my.dukascopy.bank/#/login",
+          "description": "瑞士杜高斯贝银行",
+          "icon": "/sitelogo/my.dukascopy.bank.ico"
+        },
+        {
+          "id": "site-1754405371549",
+          "name": "瑞讯银行",
+          "url": "https://trade.swissquote.ch/my.policy",
+          "description": "瑞士·瑞讯银行",
+          "icon": "/sitelogo/trade.swissquote.ch.ico"
         }
       ]
     }
