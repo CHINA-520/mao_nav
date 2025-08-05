@@ -42,6 +42,13 @@ export const mockData = {
           "icon": "/sitelogo/www.youtube.com.ico"
         },
         {
+          "id": "site-1754420932202",
+          "name": "Twitter·推特",
+          "url": "https://x.com/home",
+          "description": "X·Twitter社交媒体平台",
+          "icon": "/sitelogo/x.com.ico"
+        },
+        {
           "id": "site-1752857783656",
           "name": "OpenAI",
           "url": "https://chatgpt.com",
@@ -75,13 +82,6 @@ export const mockData = {
           "url": "https://ai-chatbot.top/",
           "description": "完全免费且无限制使用",
           "icon": "/sitelogo/ai-chatbot.top.ico"
-        },
-        {
-          "id": "site-1754420932202",
-          "name": "Twitter·推特",
-          "url": "https://x.com/home",
-          "description": "X·Twitter社交媒体平台",
-          "icon": "/sitelogo/x.com.ico"
         }
       ]
     },
@@ -196,6 +196,20 @@ export const mockData = {
           "url": "https://wise.com/login",
           "description": "wise电子钱包",
           "icon": "/sitelogo/wise.com.ico"
+        },
+        {
+          "id": "site-1754421257460",
+          "name": "Epay易派",
+          "url": "https://www.epay.com",
+          "description": "epay电子支付系统",
+          "icon": "/sitelogo/www.epay.com.ico"
+        },
+        {
+          "id": "site-1754421515134",
+          "name": "Wirex",
+          "url": "https://id.wirexapp.com/login",
+          "description": "Wirex电子货币交易平台",
+          "icon": "/sitelogo/id.wirexapp.com.ico"
         }
       ]
     },
