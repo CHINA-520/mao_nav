@@ -99,6 +99,13 @@ export const mockData = {
           "icon": "/sitelogo/fiber.google.com.ico"
         },
         {
+          "id": "site-1754419752326",
+          "name": "Speedtest测速",
+          "url": "https://www.speedtest.net/apps",
+          "description": "测试您的互联网速度",
+          "icon": "/sitelogo/www.speedtest.net.ico"
+        },
+        {
           "id": "site-1754403765868",
           "name": "大学测速",
           "url": "https://test.ustc.edu.cn",
@@ -106,11 +113,18 @@ export const mockData = {
           "icon": "/sitelogo/test.ustc.edu.cn.ico"
         },
         {
-          "id": "site-1754419752326",
-          "name": "Speedtest测速",
-          "url": "https://www.speedtest.net/apps",
-          "description": "测试您的互联网速度",
-          "icon": "/sitelogo/www.speedtest.net.ico"
+          "id": "site-1754420354814",
+          "name": "CF网络测速",
+          "url": "https://speed.cloudflare.com",
+          "description": "基于 Cloudflare 测速",
+          "icon": "/sitelogo/speed.cloudflare.com.ico"
+        },
+        {
+          "id": "site-1754420235808",
+          "name": "IP纯净度",
+          "url": "https://scamalytics.com/ip",
+          "description": "查找任意 IP 地址进行欺诈检测",
+          "icon": "/sitelogo/scamalytics.com.ico"
         },
         {
           "id": "site-1754419865602",
@@ -125,20 +139,6 @@ export const mockData = {
           "url": "https://bank-codes-hk.com/swift-code-checker/",
           "description": "SWIFT代码检查工具",
           "icon": "/sitelogo/bank-codes-hk.com.ico"
-        },
-        {
-          "id": "site-1754420235808",
-          "name": "IP纯净度",
-          "url": "https://scamalytics.com/ip",
-          "description": "查找任意 IP 地址进行欺诈检测",
-          "icon": "/sitelogo/scamalytics.com.ico"
-        },
-        {
-          "id": "site-1754420354814",
-          "name": "CF网络测速",
-          "url": "https://speed.cloudflare.com",
-          "description": "基于 Cloudflare 测速",
-          "icon": "/sitelogo/speed.cloudflare.com.ico"
         }
       ]
     },
