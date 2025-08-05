@@ -104,6 +104,27 @@ export const mockData = {
           "url": "https://test.ustc.edu.cn",
           "description": "科学技术大学测速网站",
           "icon": "/sitelogo/test.ustc.edu.cn.ico"
+        },
+        {
+          "id": "site-1754419752326",
+          "name": "网络测速",
+          "url": "https://www.speedtest.net/apps",
+          "description": "测试您的互联网速度",
+          "icon": "/sitelogo/www.speedtest.net.ico"
+        },
+        {
+          "id": "site-1754419865602",
+          "name": "汇率换算器",
+          "url": "https://wise.com/zh-cn/currency-converter/",
+          "description": "wise国际汇率比较",
+          "icon": "/sitelogo/wise.com.ico"
+        },
+        {
+          "id": "site-1754419961014",
+          "name": "SWIFT",
+          "url": "https://bank-codes-hk.com/swift-code-checker/",
+          "description": "SWIFT代碼檢查工具",
+          "icon": "/sitelogo/bank-codes-hk.com.ico"
         }
       ]
     },
