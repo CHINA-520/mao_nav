@@ -690,6 +690,13 @@ export const mockData = {
           "url": "https://cex.io",
           "description": "cex.io数字货币交易平台",
           "icon": "/sitelogo/cex.io.ico"
+        },
+        {
+          "id": "site-1754427280032",
+          "name": "IB证券",
+          "url": "https://www.interactivebrokers.com.sg/sso/Login",
+          "description": "",
+          "icon": "/sitelogo/www.interactivebrokers.com.sg.ico"
         }
       ]
     }
