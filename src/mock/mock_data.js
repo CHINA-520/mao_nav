@@ -594,10 +594,24 @@ export const mockData = {
     },
     {
       "id": "entertainment",
-      "name": "娱乐休闲",
-      "icon": "🎮",
+      "name": "云盘存储",
+      "icon": "🗄️",
       "order": 11,
       "sites": [
+        {
+          "id": "site-1754424963934",
+          "name": "Dropbox",
+          "url": "https://www.dropbox.com/home",
+          "description": "",
+          "icon": "/sitelogo/www.dropbox.com.ico"
+        },
+        {
+          "id": "site-1754424819858",
+          "name": "InfiniCLOUD",
+          "url": "https://infini-cloud.net",
+          "description": "自主管理的一体化云存储",
+          "icon": "/sitelogo/infini-cloud.net.ico"
+        },
         {
           "id": "bilibili",
           "name": "哔哩哔哩",
