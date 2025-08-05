@@ -63,13 +63,6 @@ export const mockData = {
           "icon": "/sitelogo/www.bejson.com.ico"
         },
         {
-          "id": "github",
-          "name": "GitHub",
-          "url": "https://github.com",
-          "description": "代码托管平台",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
           "id": "curlconverter",
           "name": "curl converter",
           "url": "https://curlconverter.com/",
@@ -136,10 +129,39 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1754403048006",
+      "icon": "🌐",
+      "name": "软件工具",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1754403148612",
+          "name": "IP地址查询",
+          "url": "https://iplark.com/search",
+          "description": "高精度IP归属地查询工具",
+          "icon": "/sitelogo/iplark.com.ico"
+        },
+        {
+          "id": "site-1754403522562",
+          "name": "Google测速",
+          "url": "https://fiber.google.com/speedtest",
+          "description": "看看您的连接强度如何",
+          "icon": "/sitelogo/fiber.google.com.ico"
+        },
+        {
+          "id": "site-1754403765868",
+          "name": "大学测速",
+          "url": "https://test.ustc.edu.cn",
+          "description": "科学技术大学测速网站",
+          "icon": "/sitelogo/test.ustc.edu.cn.ico"
+        }
+      ]
+    },
+    {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "chatgpt",
@@ -163,13 +185,6 @@ export const mockData = {
           "icon": "/sitelogo/www.midjourney.com.ico"
         },
         {
-          "id": "copilot",
-          "name": "GitHub Copilot",
-          "url": "https://github.com/features/copilot",
-          "description": "AI代码助手",
-          "icon": "/sitelogo/github.com.ico"
-        },
-        {
           "id": "cursor",
           "name": "Cursor",
           "url": "https://cursor.sh",
@@ -182,7 +197,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "cloudflare",
@@ -232,6 +247,13 @@ export const mockData = {
           "url": "https://www.pasyun.com/",
           "description": "ipv6机器",
           "icon": "/sitelogo/www.pasyun.com.ico"
+        },
+        {
+          "id": "copilot",
+          "name": "GitHub Copilot",
+          "url": "https://github.com/features/copilot",
+          "description": "AI代码助手",
+          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
@@ -239,7 +261,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "github",
@@ -282,6 +304,13 @@ export const mockData = {
           "url": "https://www.oracle.com/java/technologies/downloads/",
           "description": "Oracle官方Java下载",
           "icon": "/sitelogo/www.oracle.com.ico"
+        },
+        {
+          "id": "github",
+          "name": "GitHub",
+          "url": "https://github.com",
+          "description": "代码托管平台",
+          "icon": "/sitelogo/github.com.ico"
         }
       ]
     },
@@ -289,7 +318,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "stackoverflow",
@@ -332,7 +361,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "figma",
@@ -368,7 +397,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "binance",
@@ -432,7 +461,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "mdn",
@@ -468,7 +497,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "json-formatter",
@@ -504,7 +533,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "bilibili",
@@ -533,7 +562,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "notion",
@@ -562,35 +591,6 @@ export const mockData = {
           "url": "https://www.feishu.cn",
           "description": "企业协作平台",
           "icon": "/sitelogo/www.feishu.cn.ico"
-        }
-      ]
-    },
-    {
-      "id": "category-1754403048006",
-      "icon": "🌐",
-      "name": "软件工具",
-      "order": 12,
-      "sites": [
-        {
-          "id": "site-1754403148612",
-          "name": "IP地址查询",
-          "url": "https://iplark.com/search",
-          "description": "高精度IP归属地查询工具",
-          "icon": "/sitelogo/iplark.com.ico"
-        },
-        {
-          "id": "site-1754403522562",
-          "name": "Google测速",
-          "url": "https://fiber.google.com/speedtest",
-          "description": "看看您的连接强度如何",
-          "icon": "/sitelogo/fiber.google.com.ico"
-        },
-        {
-          "id": "site-1754403765868",
-          "name": "大学测速",
-          "url": "https://test.ustc.edu.cn",
-          "description": "科学技术大学测速网站",
-          "icon": "/sitelogo/test.ustc.edu.cn.ico"
         }
       ]
     }
