@@ -589,7 +589,7 @@ export const mockData = {
           "id": "site-1754403765868",
           "name": "大学测速",
           "url": "https://test.ustc.edu.cn",
-          "description": "中国科学技术大学网络空间安全学院",
+          "description": "科学技术大学测速网站",
           "icon": "/sitelogo/test.ustc.edu.cn.ico"
         }
       ]
