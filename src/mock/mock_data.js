@@ -670,6 +670,21 @@ export const mockData = {
           "icon": "/sitelogo/www.feishu.cn.ico"
         }
       ]
+    },
+    {
+      "id": "category-1754426622597",
+      "icon": "💰",
+      "name": "数字理财",
+      "order": 3,
+      "sites": [
+        {
+          "id": "site-1754426714806",
+          "name": "kraken",
+          "url": "https://www.kraken.com/sign-in",
+          "description": "kraken数字货币交易平台",
+          "icon": "/sitelogo/www.kraken.com.ico"
+        }
+      ]
     }
   ],
   "title": "我的导航"
