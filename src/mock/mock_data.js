@@ -40,6 +40,18 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1754403919626",
+          "name": "Gmail邮箱",
+          "url": "https://mail.google.com/mail/u/0/#inbox",
+          "description": ""
+        },
+        {
+          "id": "site-1754403974733",
+          "name": "google表格",
+          "url": "https://docs.google.com/spreadsheets/u/0/",
+          "description": ""
         }
       ]
     },
@@ -482,7 +494,7 @@ export const mockData = {
     },
     {
       "id": "category-1754403048006",
-      "icon": "🔧",
+      "icon": "🌐",
       "name": "软件工具",
       "order": 10,
       "sites": [
@@ -492,6 +504,20 @@ export const mockData = {
           "url": "https://iplark.com/search",
           "description": "高精度IP归属地查询工具",
           "icon": "/sitelogo/iplark.com.ico"
+        },
+        {
+          "id": "site-1754403522562",
+          "name": "Google测速",
+          "url": "https://fiber.google.com/speedtest",
+          "description": "进行速度测试，看看您家里的连接强度如何",
+          "icon": "/sitelogo/fiber.google.com.ico"
+        },
+        {
+          "id": "site-1754403765868",
+          "name": "大学测速",
+          "url": "https://test.ustc.edu.cn",
+          "description": "中国科学技术大学网络空间安全学院",
+          "icon": "https://favicon.zhusl.com/ico?url=https://www.speedtest.net"
         }
       ]
     }
