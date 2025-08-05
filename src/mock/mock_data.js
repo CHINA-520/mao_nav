@@ -72,10 +72,60 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1754405051851",
+      "icon": "🏦",
+      "name": "网银钱包",
+      "order": 1,
+      "sites": [
+        {
+          "id": "site-1754405204260",
+          "name": "杜高斯贝",
+          "url": "https://my.dukascopy.bank/#/login",
+          "description": "瑞士杜高斯贝银行",
+          "icon": "/sitelogo/my.dukascopy.bank.ico"
+        },
+        {
+          "id": "site-1754405371549",
+          "name": "瑞讯银行",
+          "url": "https://trade.swissquote.ch/my.policy",
+          "description": "瑞士·瑞讯银行",
+          "icon": "/sitelogo/trade.swissquote.ch.ico"
+        },
+        {
+          "id": "site-1754405524854",
+          "name": "新加坡OCBC",
+          "url": "https://www.ocbc.com/personal-banking/home",
+          "description": "新加坡ocbc华侨银行",
+          "icon": "/sitelogo/www.ocbc.com.ico"
+        },
+        {
+          "id": "site-1754405753057",
+          "name": "IFAST银行",
+          "url": "https://www.ifastgb.com/en/login",
+          "description": "英国IFAST数字银行",
+          "icon": "/sitelogo/www.ifastgb.com.ico"
+        },
+        {
+          "id": "site-1754405891172",
+          "name": "PayPal",
+          "url": "https://www.paypal.com/us/home",
+          "description": "美国PayPal贝宝钱包",
+          "icon": "/sitelogo/www.paypal.com.ico"
+        },
+        {
+          "id": "site-1754405972094",
+          "name": "wise",
+          "url": "https://wise.com/login",
+          "description": "wise电子钱包",
+          "icon": "/sitelogo/wise.com.ico"
+        }
+      ]
+    },
+    {
       "id": "ai-tools",
       "name": "AI智能",
       "icon": "🤖",
-      "order": 1,
+      "order": 2,
       "sites": [
         {
           "id": "chatgpt",
@@ -118,7 +168,7 @@ export const mockData = {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "cloudflare",
@@ -175,7 +225,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "github",
@@ -225,7 +275,7 @@ export const mockData = {
       "id": "community",
       "name": "社区论坛",
       "icon": "👥",
-      "order": 6,
+      "order": 5,
       "sites": [
         {
           "id": "stackoverflow",
@@ -268,7 +318,7 @@ export const mockData = {
       "id": "design",
       "name": "设计工具",
       "icon": "🎨",
-      "order": 4,
+      "order": 6,
       "sites": [
         {
           "id": "figma",
@@ -304,7 +354,7 @@ export const mockData = {
       "id": "finance",
       "name": "财经投资",
       "icon": "💰",
-      "order": 5,
+      "order": 7,
       "sites": [
         {
           "id": "binance",
@@ -368,7 +418,7 @@ export const mockData = {
       "id": "learning",
       "name": "学习资源",
       "icon": "📚",
-      "order": 6,
+      "order": 8,
       "sites": [
         {
           "id": "mdn",
@@ -404,7 +454,7 @@ export const mockData = {
       "id": "tools",
       "name": "在线工具",
       "icon": "⚙️",
-      "order": 7,
+      "order": 9,
       "sites": [
         {
           "id": "json-formatter",
@@ -440,7 +490,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 10,
       "sites": [
         {
           "id": "bilibili",
@@ -476,7 +526,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 9,
+      "order": 11,
       "sites": [
         {
           "id": "notion",
@@ -512,7 +562,7 @@ export const mockData = {
       "id": "category-1754403048006",
       "icon": "🌐",
       "name": "软件工具",
-      "order": 10,
+      "order": 12,
       "sites": [
         {
           "id": "site-1754403148612",
@@ -534,56 +584,6 @@ export const mockData = {
           "url": "https://test.ustc.edu.cn",
           "description": "中国科学技术大学网络空间安全学院",
           "icon": "/sitelogo/test.ustc.edu.cn.ico"
-        }
-      ]
-    },
-    {
-      "id": "category-1754405051851",
-      "icon": "🏦",
-      "name": "网银钱包",
-      "order": 11,
-      "sites": [
-        {
-          "id": "site-1754405204260",
-          "name": "杜高斯贝",
-          "url": "https://my.dukascopy.bank/#/login",
-          "description": "瑞士杜高斯贝银行",
-          "icon": "/sitelogo/my.dukascopy.bank.ico"
-        },
-        {
-          "id": "site-1754405371549",
-          "name": "瑞讯银行",
-          "url": "https://trade.swissquote.ch/my.policy",
-          "description": "瑞士·瑞讯银行",
-          "icon": "/sitelogo/trade.swissquote.ch.ico"
-        },
-        {
-          "id": "site-1754405524854",
-          "name": "新加坡OCBC",
-          "url": "https://www.ocbc.com/personal-banking/home",
-          "description": "新加坡ocbc华侨银行",
-          "icon": "/sitelogo/www.ocbc.com.ico"
-        },
-        {
-          "id": "site-1754405753057",
-          "name": "IFAST银行",
-          "url": "https://www.ifastgb.com/en/login",
-          "description": "英国IFAST数字银行",
-          "icon": "/sitelogo/www.ifastgb.com.ico"
-        },
-        {
-          "id": "site-1754405891172",
-          "name": "PayPal",
-          "url": "https://www.paypal.com/us/home",
-          "description": "美国PayPal贝宝钱包",
-          "icon": "/sitelogo/www.paypal.com.ico"
-        },
-        {
-          "id": "site-1754405972094",
-          "name": "wise",
-          "url": "https://wise.com/login",
-          "description": "wise电子钱包",
-          "icon": "/sitelogo/wise.com.ico"
         }
       ]
     }
