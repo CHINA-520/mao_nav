@@ -570,6 +570,20 @@ export const mockData = {
           "url": "https://www.ifastgb.com/en/login",
           "description": "英国IFAST数字银行",
           "icon": "/sitelogo/www.ifastgb.com.ico"
+        },
+        {
+          "id": "site-1754405891172",
+          "name": "PayPal",
+          "url": "https://www.paypal.com/us/home",
+          "description": "美国PayPal贝宝钱包",
+          "icon": "/sitelogo/www.paypal.com.ico"
+        },
+        {
+          "id": "site-1754405972094",
+          "name": "wise",
+          "url": "https://wise.com/login",
+          "description": "wise电子钱包",
+          "icon": "/sitelogo/wise.com.ico"
         }
       ]
     }
