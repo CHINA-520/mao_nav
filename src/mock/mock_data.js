@@ -75,13 +75,6 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
-        },
-        {
-          "id": "site-1754404845488",
-          "name": "DeepSeek",
-          "url": "https://ai-chatbot.top/",
-          "description": "完全免费且无限制使用",
-          "icon": "/sitelogo/ai-chatbot.top.ico"
         }
       ]
     },
@@ -220,6 +213,20 @@ export const mockData = {
       "order": 3,
       "sites": [
         {
+          "id": "site-1754404845488",
+          "name": "DeepSeek",
+          "url": "https://ai-chatbot.top/",
+          "description": "完全免费且无限制使用",
+          "icon": "/sitelogo/ai-chatbot.top.ico"
+        },
+        {
+          "id": "site-1754420682384",
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com",
+          "description": "你的微软AI助手",
+          "icon": "/sitelogo/copilot.microsoft.com.ico"
+        },
+        {
           "id": "chatgpt",
           "name": "ChatGPT",
           "url": "https://chat.openai.com",
@@ -246,13 +253,6 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
-        },
-        {
-          "id": "site-1754420682384",
-          "name": "Copilot",
-          "url": "https://copilot.microsoft.com",
-          "description": "你的微软AI助手",
-          "icon": "/sitelogo/copilot.microsoft.com.ico"
         }
       ]
     },
