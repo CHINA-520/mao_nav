@@ -194,7 +194,7 @@ export const mockData = {
           "id": "site-1754405972094",
           "name": "wise",
           "url": "https://wise.com/login",
-          "description": "wise电子钱包",
+          "description": "wise国际货币转换支付",
           "icon": "/sitelogo/wise.com.ico"
         },
         {
@@ -208,7 +208,7 @@ export const mockData = {
           "id": "site-1754421515134",
           "name": "Wirex",
           "url": "https://id.wirexapp.com/login",
-          "description": "Wirex电子货币交易平台",
+          "description": "Wirex数字货币交易平台",
           "icon": "/sitelogo/id.wirexapp.com.ico"
         }
       ]
