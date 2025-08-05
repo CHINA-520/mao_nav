@@ -45,13 +45,15 @@ export const mockData = {
           "id": "site-1754403919626",
           "name": "Gmail邮箱",
           "url": "https://mail.google.com/mail/u/0/#inbox",
-          "description": ""
+          "description": "",
+          "icon": "https://favicon.zhusl.com/ico?url=https://docs.google.com/spreadsheets/u/0/"
         },
         {
           "id": "site-1754403974733",
           "name": "google表格",
           "url": "https://docs.google.com/spreadsheets/u/0/",
-          "description": ""
+          "description": "",
+          "icon": "https://favicon.zhusl.com/ico?url=https://docs.google.com/spreadsheets/u/0/"
         }
       ]
     },
