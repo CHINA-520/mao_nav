@@ -683,6 +683,12 @@ export const mockData = {
           "url": "https://www.kraken.com/sign-in",
           "description": "kraken数字货币交易平台",
           "icon": "/sitelogo/www.kraken.com.ico"
+        },
+        {
+          "id": "site-1754426875301",
+          "name": "cex.io",
+          "url": "https://auth.cex.io",
+          "description": "cex.io数字货币交易平台"
         }
       ]
     }
