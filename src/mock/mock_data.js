@@ -1,5 +1,12 @@
 export const mockData = {
   "categories": [
+   {
+          "id": "site-1752857783656",
+          "name": "Google测速",
+          "url": "https://fiber.google.com/speedtest",
+          "description": "测测你的网速,好用👌",
+          "icon": "/sitelogo/chatgpt.com.ico"
+        },
     {
       "id": "my-favorites",
       "name": "我的常用",
