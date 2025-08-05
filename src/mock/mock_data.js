@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://docs.google.com/spreadsheets/u/0/",
           "description": "",
           "icon": "https://favicon.zhusl.com/ico?url=https://docs.google.com/spreadsheets/u/0/"
+        },
+        {
+          "id": "site-1754404628851",
+          "name": "微软邮箱",
+          "url": "https://outlook.live.com/mail/0/",
+          "description": "微软Outlook邮箱",
+          "icon": "/sitelogo/outlook.live.com.ico"
         }
       ]
     },
@@ -519,7 +526,7 @@ export const mockData = {
           "name": "大学测速",
           "url": "https://test.ustc.edu.cn",
           "description": "中国科学技术大学网络空间安全学院",
-          "icon": "https://favicon.zhusl.com/ico?url=https://www.speedtest.net"
+          "icon": "/sitelogo/test.ustc.edu.cn.ico"
         }
       ]
     }
