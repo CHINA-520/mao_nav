@@ -75,6 +75,13 @@ export const mockData = {
           "url": "https://ai-chatbot.top/",
           "description": "完全免费且无限制使用",
           "icon": "/sitelogo/ai-chatbot.top.ico"
+        },
+        {
+          "id": "site-1754420932202",
+          "name": "Twitter·推特",
+          "url": "https://x.com/home",
+          "description": "X·Twitter社交媒体平台",
+          "icon": "/sitelogo/x.com.ico"
         }
       ]
     },
@@ -194,7 +201,7 @@ export const mockData = {
     },
     {
       "id": "ai-tools",
-      "name": "AI智能",
+      "name": "AI智能助手",
       "icon": "🤖",
       "order": 3,
       "sites": [
@@ -225,6 +232,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1754420682384",
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com",
+          "description": "你的微软AI助手",
+          "icon": "/sitelogo/copilot.microsoft.com.ico"
         }
       ]
     },
