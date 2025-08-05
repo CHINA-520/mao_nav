@@ -602,7 +602,7 @@ export const mockData = {
           "id": "site-1754424963934",
           "name": "Dropbox",
           "url": "https://www.dropbox.com/home",
-          "description": "",
+          "description": "云存储和文件同步服务",
           "icon": "/sitelogo/www.dropbox.com.ico"
         },
         {
