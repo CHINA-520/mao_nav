@@ -595,7 +595,7 @@ export const mockData = {
     {
       "id": "entertainment",
       "name": "云盘存储",
-      "icon": "🗄️",
+      "icon": "🔐",
       "order": 11,
       "sites": [
         {
