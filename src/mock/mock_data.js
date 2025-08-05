@@ -79,10 +79,39 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1754403048006",
+      "icon": "🌐",
+      "name": "软件工具",
+      "order": 1,
+      "sites": [
+        {
+          "id": "site-1754403148612",
+          "name": "IP地址查询",
+          "url": "https://iplark.com/search",
+          "description": "高精度IP归属地查询工具",
+          "icon": "/sitelogo/iplark.com.ico"
+        },
+        {
+          "id": "site-1754403522562",
+          "name": "Google测速",
+          "url": "https://fiber.google.com/speedtest",
+          "description": "看看您的连接强度如何",
+          "icon": "/sitelogo/fiber.google.com.ico"
+        },
+        {
+          "id": "site-1754403765868",
+          "name": "大学测速",
+          "url": "https://test.ustc.edu.cn",
+          "description": "科学技术大学测速网站",
+          "icon": "/sitelogo/test.ustc.edu.cn.ico"
+        }
+      ]
+    },
+    {
       "id": "category-1754405051851",
       "icon": "🏦",
       "name": "网银钱包",
-      "order": 1,
+      "order": 2,
       "sites": [
         {
           "id": "site-1754405371549",
@@ -125,35 +154,6 @@ export const mockData = {
           "url": "https://wise.com/login",
           "description": "wise电子钱包",
           "icon": "/sitelogo/wise.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "category-1754403048006",
-      "icon": "🌐",
-      "name": "软件工具",
-      "order": 2,
-      "sites": [
-        {
-          "id": "site-1754403148612",
-          "name": "IP地址查询",
-          "url": "https://iplark.com/search",
-          "description": "高精度IP归属地查询工具",
-          "icon": "/sitelogo/iplark.com.ico"
-        },
-        {
-          "id": "site-1754403522562",
-          "name": "Google测速",
-          "url": "https://fiber.google.com/speedtest",
-          "description": "看看您的连接强度如何",
-          "icon": "/sitelogo/fiber.google.com.ico"
-        },
-        {
-          "id": "site-1754403765868",
-          "name": "大学测速",
-          "url": "https://test.ustc.edu.cn",
-          "description": "科学技术大学测速网站",
-          "icon": "/sitelogo/test.ustc.edu.cn.ico"
         }
       ]
     },
