@@ -52,7 +52,7 @@ export const mockData = {
           "id": "site-1754403974733",
           "name": "google表格",
           "url": "https://docs.google.com/spreadsheets/u/0/",
-          "description": "",
+          "description": "电子表格应用服务",
           "icon": "https://favicon.zhusl.com/ico?url=https://docs.google.com/spreadsheets/u/0/"
         },
         {
@@ -68,6 +68,13 @@ export const mockData = {
           "url": "https://ai-chatbot.top/",
           "description": "完全免费且无限制使用",
           "icon": "/sitelogo/ai-chatbot.top.ico"
+        },
+        {
+          "id": "site-1754407178122",
+          "name": "Dropbox",
+          "url": "https://www.dropbox.com/home",
+          "description": "云存储和文件同步服务",
+          "icon": "/sitelogo/www.dropbox.com.ico"
         }
       ]
     },
