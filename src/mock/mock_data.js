@@ -693,9 +693,9 @@ export const mockData = {
         },
         {
           "id": "site-1754427280032",
-          "name": "IB证券",
+          "name": "IBKR证券",
           "url": "https://www.interactivebrokers.com.sg/sso/Login",
-          "description": "",
+          "description": "IBKR证券交易所",
           "icon": "/sitelogo/www.interactivebrokers.com.sg.ico"
         }
       ]
