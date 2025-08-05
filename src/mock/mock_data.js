@@ -556,6 +556,20 @@ export const mockData = {
           "url": "https://trade.swissquote.ch/my.policy",
           "description": "瑞士·瑞讯银行",
           "icon": "/sitelogo/trade.swissquote.ch.ico"
+        },
+        {
+          "id": "site-1754405524854",
+          "name": "新加坡OCBC",
+          "url": "https://www.ocbc.com/personal-banking/home",
+          "description": "新加坡ocbc华侨银行",
+          "icon": "/sitelogo/www.ocbc.com.ico"
+        },
+        {
+          "id": "site-1754405753057",
+          "name": "IFAST银行",
+          "url": "https://www.ifastgb.com/en/login",
+          "description": "英国IFAST数字银行",
+          "icon": "/sitelogo/www.ifastgb.com.ico"
         }
       ]
     }
