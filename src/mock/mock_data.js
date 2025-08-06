@@ -101,7 +101,7 @@ export const mockData = {
         {
           "id": "site-1754419752326",
           "name": "Speedtest测速",
-          "url": "https://www.speedtest.net/apps",
+          "url": "https://www.speedtest.net",
           "description": "测试您的互联网速度",
           "icon": "/sitelogo/www.speedtest.net.ico"
         },
