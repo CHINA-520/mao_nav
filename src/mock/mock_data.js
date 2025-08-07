@@ -113,10 +113,18 @@ export const mockData = {
           "icon": "/sitelogo/bank-codes-hk.com.ico"
         },
         {
-          "id": "site-1754578605025",
-          "name": "本机IP查询",
-          "url": "https://zhale.me",
-          "description": ""
+          "id": "site-1754579087877",
+          "name": "follow",
+          "url": "https://app.follow.is",
+          "description": "",
+          "icon": "https://favicon.zhusl.com/ico?url=https://app.follow.is/power"
+        },
+        {
+          "id": "site-1754579310072",
+          "name": "FAST测速",
+          "url": "https://fast.com",
+          "description": "您的网络服务提供商的网速。",
+          "icon": "https://fast.com/assets/favicons/favicon.ico"
         }
       ]
     },
