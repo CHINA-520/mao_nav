@@ -111,6 +111,12 @@ export const mockData = {
           "url": "https://bank-codes-hk.com/swift-code-checker/",
           "description": "SWIFT代码检查工具",
           "icon": "/sitelogo/bank-codes-hk.com.ico"
+        },
+        {
+          "id": "site-1754578605025",
+          "name": "本机IP查询",
+          "url": "https://zhale.me",
+          "description": ""
         }
       ]
     },
