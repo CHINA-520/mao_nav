@@ -11,7 +11,7 @@ export const mockData = {
           "name": "Gmail邮箱",
           "url": "https://mail.google.com/mail/u/0/#inbox",
           "description": "Google免费电子邮件服务",
-          "icon": "https://favicon.zhusl.com/ico?url=https://docs.google.com/spreadsheets/u/0/"
+          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754509868043.ico"
         },
         {
           "id": "site-1754403974733",
