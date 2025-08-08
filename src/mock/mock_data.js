@@ -18,7 +18,7 @@ export const mockData = {
           "name": "google表格",
           "url": "https://docs.google.com/spreadsheets/u/0/",
           "description": "电子表格应用服务",
-          "icon": "https://favicon.zhusl.com/ico?url=https://docs.google.com/spreadsheets/u/0/"
+          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754509296470.ico"
         },
         {
           "id": "site-1754404628851",
