@@ -667,7 +667,7 @@ export const mockData = {
     },
     {
       "id": "category-1754988620475",
-      "icon": "💻",
+      "icon": "👓️",
       "name": "畅快观影",
       "order": 13,
       "sites": [
