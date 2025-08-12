@@ -664,6 +664,33 @@ export const mockData = {
           "icon": "/sitelogo/www.interactivebrokers.com.sg.ico"
         }
       ]
+    },
+    {
+      "id": "category-1754988620475",
+      "icon": "💻",
+      "name": "畅快观影",
+      "order": 13,
+      "sites": [
+        {
+          "id": "site-1754988787870",
+          "name": "123av",
+          "url": "https://123av.ws/en/dm4/tags/fc2",
+          "description": "FC2影音"
+        },
+        {
+          "id": "site-1754988868803",
+          "name": "javtiful",
+          "url": "https://javtiful.com/uncensored",
+          "description": "最新未经审查的视频"
+        },
+        {
+          "id": "site-1754988932923",
+          "name": "missav",
+          "url": "https://missav.ws/dm22/en",
+          "description": "为您推荐",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "我的导航"
