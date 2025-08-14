@@ -675,24 +675,25 @@ export const mockData = {
           "id": "site-1754988787870",
           "name": "123av",
           "url": "https://123av.ws/en/dm4/tags/fc2",
-          "description": "FC2影音"
+          "description": "FC2影音",
+          "icon": "https://missav.ws/img/favicon.png"
         },
         {
           "id": "site-1754988868803",
           "name": "javtiful",
           "url": "https://javtiful.com/uncensored",
-          "description": "最新未经审查的视频"
+          "description": "最新未经审查的视频",
+          "icon": "https://missav.ws/img/favicon.png"
         },
         {
           "id": "site-1754988932923",
           "name": "missav",
           "url": "https://missav.ws/dm22/en",
           "description": "为您推荐",
-          "icon": ""
+          "icon": "https://missav.ws/img/favicon.png"
         }
       ]
     }
   ],
-  "title": "个人书签",
-  "_fileSha": "c34515eb24806eac33242a89e96668a24c1f3c06"
+  "title": "个人书签"
 }
