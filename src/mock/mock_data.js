@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://x.com/home",
           "description": "X·Twitter社交媒体平台",
           "icon": "/sitelogo/x.com.ico"
+        },
+        {
+          "id": "site-1755194034289",
+          "name": "GitHub",
+          "url": "https://github.com",
+          "description": "",
+          "icon": "https://navsphere-9j8.pages.dev/assets/img_1754586360007.png"
         }
       ]
     },
