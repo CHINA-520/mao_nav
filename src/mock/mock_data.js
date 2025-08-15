@@ -146,6 +146,20 @@ export const mockData = {
           "url": "https://bank-codes-hk.com/swift-code-checker/",
           "description": "SWIFT代码检查工具",
           "icon": "/sitelogo/bank-codes-hk.com.ico"
+        },
+        {
+          "id": "site-1755239307195",
+          "name": "VIP解析",
+          "url": "https://www.dog886.com/vip",
+          "description": "VIP视频在线解析",
+          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1755036396423.ico"
+        },
+        {
+          "id": "site-1755239366683",
+          "name": "地址生成器",
+          "url": "https://realaddress.fuyiran.com",
+          "description": "真实地址生成器",
+          "icon": "https://pic.imgdb.cn/item/66e7ab36d9c307b7e9cefd24.png"
         }
       ]
     },
