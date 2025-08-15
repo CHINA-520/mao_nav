@@ -134,18 +134,18 @@ export const mockData = {
           "icon": "/sitelogo/wise.com.ico"
         },
         {
-          "id": "site-1754419961014",
-          "name": "SWIFT代码",
-          "url": "https://bank-codes-hk.com/swift-code-checker/",
-          "description": "SWIFT代码检查工具",
-          "icon": "/sitelogo/bank-codes-hk.com.ico"
-        },
-        {
           "id": "site-1754579087877",
           "name": "follow",
           "url": "https://app.follow.is",
           "description": "",
           "icon": "https://favicon.zhusl.com/ico?url=https://app.follow.is/power"
+        },
+        {
+          "id": "site-1754419961014",
+          "name": "SWIFT代码",
+          "url": "https://bank-codes-hk.com/swift-code-checker/",
+          "description": "SWIFT代码检查工具",
+          "icon": "/sitelogo/bank-codes-hk.com.ico"
         }
       ]
     },
