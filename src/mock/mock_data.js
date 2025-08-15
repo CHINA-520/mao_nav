@@ -740,6 +740,20 @@ export const mockData = {
           "url": "https://www.interactivebrokers.com.sg/sso/Login",
           "description": "IBKR证券交易所",
           "icon": "/sitelogo/www.interactivebrokers.com.sg.ico"
+        },
+        {
+          "id": "site-1755241151197",
+          "name": "volet",
+          "url": "https://account.volet.com/login",
+          "description": "功能丰富的支付平台·数字货币",
+          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754671494183.ico"
+        },
+        {
+          "id": "site-1755241252437",
+          "name": "Wirex",
+          "url": "https://id.wirexapp.com/login",
+          "description": "Wirex 一个数字支付平台",
+          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754671360829.png"
         }
       ]
     },
