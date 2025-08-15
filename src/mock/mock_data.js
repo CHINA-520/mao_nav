@@ -78,55 +78,6 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
-          "id": "site-1754403148612",
-          "name": "IP地址查询",
-          "url": "https://iplark.com/search",
-          "description": "高精度IP归属地查询工具",
-          "icon": "/sitelogo/iplark.com.ico"
-        },
-        {
-          "id": "site-1754419752326",
-          "name": "Speedtest测速",
-          "url": "https://www.speedtest.net",
-          "description": "测试您的互联网速度",
-          "icon": "/sitelogo/www.speedtest.net.ico"
-        },
-        {
-          "id": "site-1754403765868",
-          "name": "大学测速",
-          "url": "https://test.ustc.edu.cn",
-          "description": "科学技术大学测速网站",
-          "icon": "/sitelogo/test.ustc.edu.cn.ico"
-        },
-        {
-          "id": "site-1754403522562",
-          "name": "Google测速",
-          "url": "https://fiber.google.com/speedtest",
-          "description": "互联网速度测试",
-          "icon": "/sitelogo/fiber.google.com.ico"
-        },
-        {
-          "id": "site-1754420235808",
-          "name": "IP纯净度",
-          "url": "https://scamalytics.com/ip",
-          "description": "查找任意 IP 地址进行欺诈检测",
-          "icon": "/sitelogo/scamalytics.com.ico"
-        },
-        {
-          "id": "site-1754420354814",
-          "name": "CF网络测速",
-          "url": "https://speed.cloudflare.com",
-          "description": "基于 Cloudflare 测速",
-          "icon": "/sitelogo/speed.cloudflare.com.ico"
-        },
-        {
-          "id": "site-1754579310072",
-          "name": "FAST测速",
-          "url": "https://fast.com",
-          "description": "您的网络服务提供商的网速。",
-          "icon": "https://fast.com/assets/favicons/favicon.ico"
-        },
-        {
           "id": "site-1754419865602",
           "name": "汇率换算器",
           "url": "https://wise.com/zh-cn/currency-converter/",
@@ -182,7 +133,57 @@ export const mockData = {
       "icon": "⚙️",
       "name": "网络相关",
       "order": 2,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1754403148612",
+          "name": "IP地址查询",
+          "url": "https://iplark.com/search",
+          "description": "高精度IP归属地查询工具",
+          "icon": "/sitelogo/iplark.com.ico"
+        },
+        {
+          "id": "site-1754419752326",
+          "name": "Speedtest测速",
+          "url": "https://www.speedtest.net",
+          "description": "测试您的互联网速度",
+          "icon": "/sitelogo/www.speedtest.net.ico"
+        },
+        {
+          "id": "site-1754403765868",
+          "name": "大学测速",
+          "url": "https://test.ustc.edu.cn",
+          "description": "科学技术大学测速网站",
+          "icon": "/sitelogo/test.ustc.edu.cn.ico"
+        },
+        {
+          "id": "site-1754403522562",
+          "name": "Google测速",
+          "url": "https://fiber.google.com/speedtest",
+          "description": "互联网速度测试",
+          "icon": "/sitelogo/fiber.google.com.ico"
+        },
+        {
+          "id": "site-1754420235808",
+          "name": "IP纯净度",
+          "url": "https://scamalytics.com/ip",
+          "description": "查找任意 IP 地址进行欺诈检测",
+          "icon": "/sitelogo/scamalytics.com.ico"
+        },
+        {
+          "id": "site-1754420354814",
+          "name": "CF网络测速",
+          "url": "https://speed.cloudflare.com",
+          "description": "基于 Cloudflare 测速",
+          "icon": "/sitelogo/speed.cloudflare.com.ico"
+        },
+        {
+          "id": "site-1754579310072",
+          "name": "FAST测速",
+          "url": "https://fast.com",
+          "description": "您的网络服务提供商的网速。",
+          "icon": "https://fast.com/assets/favicons/favicon.ico"
+        }
+      ]
     },
     {
       "id": "category-1754405051851",
