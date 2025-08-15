@@ -125,6 +125,20 @@ export const mockData = {
           "url": "https://app.follow.is",
           "description": "",
           "icon": "https://favicon.zhusl.com/ico?url=https://app.follow.is/power"
+        },
+        {
+          "id": "site-1755240525836",
+          "name": "临时邮箱",
+          "url": "https://smail.pw",
+          "description": "专业临时邮件解决方案",
+          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754670182168.ico"
+        },
+        {
+          "id": "site-1755240619363",
+          "name": "全球时间",
+          "url": "https://time.is",
+          "description": "与原子钟时间同步",
+          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754568856543.ico"
         }
       ]
     },
@@ -654,6 +668,13 @@ export const mockData = {
           "url": "https://infini-cloud.net",
           "description": "自主管理的一体化云存储",
           "icon": "/sitelogo/infini-cloud.net.ico"
+        },
+        {
+          "id": "site-1755240796487",
+          "name": "Google 云端硬盘",
+          "url": "https://drive.google.com/drive/home",
+          "description": "Google 云端硬盘一款云存储服务",
+          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754670257805.ico"
         }
       ]
     },
