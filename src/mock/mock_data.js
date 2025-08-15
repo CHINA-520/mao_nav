@@ -160,6 +160,20 @@ export const mockData = {
           "url": "https://realaddress.fuyiran.com",
           "description": "真实地址生成器",
           "icon": "https://pic.imgdb.cn/item/66e7ab36d9c307b7e9cefd24.png"
+        },
+        {
+          "id": "site-1755239688459",
+          "name": "二维码识别",
+          "url": "https://qr.codeboy.me",
+          "description": "直接剪切板粘贴二维码",
+          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754569086974.png"
+        },
+        {
+          "id": "site-1755239864705",
+          "name": "视频下载器",
+          "url": "https://yt5s.biz/zh-cn",
+          "description": "Youtube视频下载各种格式",
+          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754569021415.png"
         }
       ]
     },
