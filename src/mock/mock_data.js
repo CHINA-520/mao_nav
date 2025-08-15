@@ -120,6 +120,13 @@ export const mockData = {
           "icon": "/sitelogo/bank-codes-hk.com.ico"
         },
         {
+          "id": "site-1755240619363",
+          "name": "全球时间",
+          "url": "https://time.is",
+          "description": "与原子钟时间同步",
+          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754568856543.ico"
+        },
+        {
           "id": "site-1754579087877",
           "name": "follow",
           "url": "https://app.follow.is",
@@ -132,13 +139,6 @@ export const mockData = {
           "url": "https://smail.pw",
           "description": "专业临时邮件解决方案",
           "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754670182168.ico"
-        },
-        {
-          "id": "site-1755240619363",
-          "name": "全球时间",
-          "url": "https://time.is",
-          "description": "与原子钟时间同步",
-          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754568856543.ico"
         }
       ]
     },
@@ -754,6 +754,13 @@ export const mockData = {
           "url": "https://id.wirexapp.com/login",
           "description": "Wirex 一个数字支付平台",
           "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754671360829.png"
+        },
+        {
+          "id": "site-1755241372717",
+          "name": "PayPal",
+          "url": "https://www.paypal.com/us/home",
+          "description": "PayPal提供的各种支付服务",
+          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754526555205.png"
         }
       ]
     },
