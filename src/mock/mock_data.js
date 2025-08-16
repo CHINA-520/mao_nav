@@ -674,7 +674,7 @@ export const mockData = {
           "name": "Google 云端硬盘",
           "url": "https://drive.google.com/drive/home",
           "description": "Google 云端硬盘一款云存储服务",
-          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754670257805.ico"
+          "icon": "https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_48dp.png"
         }
       ]
     },
