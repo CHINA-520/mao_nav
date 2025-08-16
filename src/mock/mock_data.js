@@ -103,7 +103,7 @@ export const mockData = {
           "name": "地址生成器",
           "url": "https://realaddress.fuyiran.com",
           "description": "真实地址生成器",
-          "icon": "https://pic.imgdb.cn/item/66e7ab36d9c307b7e9cefd24.png"
+          "icon": "https://www.google.com/images/branding/product/ico/maps15_bnuw3a_32dp.ico"
         },
         {
           "id": "site-1754419865602",
