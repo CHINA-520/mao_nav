@@ -153,6 +153,13 @@ export const mockData = {
           "url": "https://smail.pw",
           "description": "专业临时邮件解决方案",
           "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754670182168.ico"
+        },
+        {
+          "id": "site-1760363781258",
+          "name": "分享视频",
+          "url": "https://sendvid.com",
+          "description": "免费便捷的视频托管",
+          "icon": "https://nav-8yo.pages.dev/assets/favicon_1760249584916.ico"
         }
       ]
     },
