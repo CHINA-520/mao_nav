@@ -163,6 +163,13 @@ export const mockData = {
           "icon": "/sitelogo/iplark.com.ico"
         },
         {
+          "id": "site-1760361709162",
+          "name": "MISUB",
+          "url": "https://misub-3x4.pages.dev",
+          "description": "基于 Cloudflare 的订阅转换和管理工具",
+          "icon": "https://nav-8yo.pages.dev/assets/img_1758621483970.png"
+        },
+        {
           "id": "site-1754419752326",
           "name": "Speedtest测速",
           "url": "https://www.speedtest.net",
@@ -205,11 +212,25 @@ export const mockData = {
           "icon": "https://fast.com/assets/favicons/favicon.ico"
         },
         {
-          "id": "site-1760361709162",
-          "name": "MISUB",
-          "url": "https://misub-3x4.pages.dev",
-          "description": "基于 Cloudflare 的订阅转换和管理工具",
-          "icon": "https://nav-8yo.pages.dev/assets/img_1758621483970.png"
+          "id": "site-1760361905637",
+          "name": "VIP解析",
+          "url": "https://www.dog886.com/vip",
+          "description": "一个在线无需下载即可使用VIP视频在线解析便捷的在线工具网站,无需登录就可以便捷的使用在线工具的网站",
+          "icon": "https://upyun.dog886.com/static/assets/img/logo.png"
+        },
+        {
+          "id": "site-1760362040975",
+          "name": "地址生成器",
+          "url": "https://realaddress.fuyiran.com",
+          "description": "一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址",
+          "icon": "https://nav-8yo.pages.dev/assets/img_1758619676440.png"
+        },
+        {
+          "id": "site-1760362097001",
+          "name": "检测您的IP质量",
+          "url": "https://ipjiance.com",
+          "description": "我们检测大量IP数据，以及针对tiktok,facebook,油管等平台实际大量测试，统计影响IP质量的有效参数。为做外贸电商，海外社交流量用户提供方便检测工具",
+          "icon": "https://nav-8yo.pages.dev/assets/favicon_1757345336715.ico"
         }
       ]
     },
