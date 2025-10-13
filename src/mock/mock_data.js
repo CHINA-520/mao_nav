@@ -149,6 +149,13 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
+          "id": "site-1760361490047",
+          "name": "您的IP地址",
+          "url": "https://ip77.net/myip",
+          "description": "快速查看您的公网IP地址和位置信息",
+          "icon": "https://nav-8yo.pages.dev/assets/favicon_1759654658036.png"
+        },
+        {
           "id": "site-1754403148612",
           "name": "IP地址查询",
           "url": "https://iplark.com/search",
@@ -196,6 +203,13 @@ export const mockData = {
           "url": "https://fast.com",
           "description": "您的网络服务提供商的网速。",
           "icon": "https://fast.com/assets/favicons/favicon.ico"
+        },
+        {
+          "id": "site-1760361709162",
+          "name": "MISUB",
+          "url": "https://misub-3x4.pages.dev",
+          "description": "基于 Cloudflare 的订阅转换和管理工具",
+          "icon": "https://nav-8yo.pages.dev/assets/img_1758621483970.png"
         }
       ]
     },
