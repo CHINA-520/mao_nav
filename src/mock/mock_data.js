@@ -78,11 +78,25 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
+          "id": "site-1760363081210",
+          "name": "二维码识别",
+          "url": "https://uutool.cn/qrcode-decode",
+          "description": "在线二维码识别解密工具",
+          "icon": "https://nav-8yo.pages.dev/assets/favicon_1759012197710.png"
+        },
+        {
           "id": "site-1755239688459",
           "name": "二维码识别",
           "url": "https://qr.codeboy.me",
           "description": "直接剪切板粘贴二维码",
           "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754569086974.png"
+        },
+        {
+          "id": "site-1760363141031",
+          "name": "OCR文字识别",
+          "url": "https://uutool.cn/ocr",
+          "description": "OCR图片文字识别工具",
+          "icon": "https://nav-8yo.pages.dev/assets/favicon_1759103591039.png"
         },
         {
           "id": "site-1755239864705",
