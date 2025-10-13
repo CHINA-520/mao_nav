@@ -229,21 +229,21 @@ export const mockData = {
           "id": "site-1760361905637",
           "name": "VIP解析",
           "url": "https://www.dog886.com/vip",
-          "description": "一个在线无需下载即可使用VIP视频在线解析便捷的在线工具网站,无需登录就可以便捷的使用在线工具的网站",
+          "description": "无需下载即可使用VIP视频",
           "icon": "https://upyun.dog886.com/static/assets/img/logo.png"
         },
         {
           "id": "site-1760362040975",
           "name": "地址生成器",
           "url": "https://realaddress.fuyiran.com",
-          "description": "一个用于填充真实地址的地址生成器，可以生成中国，美国，英国，德国，法国等22个国家的真实地址",
+          "description": "真实地址的地址生成器",
           "icon": "https://nav-8yo.pages.dev/assets/img_1758619676440.png"
         },
         {
           "id": "site-1760362097001",
           "name": "检测您的IP质量",
           "url": "https://ipjiance.com",
-          "description": "我们检测大量IP数据，以及针对tiktok,facebook,油管等平台实际大量测试，统计影响IP质量的有效参数。为做外贸电商，海外社交流量用户提供方便检测工具",
+          "description": "代理ip检测工具",
           "icon": "https://nav-8yo.pages.dev/assets/favicon_1757345336715.ico"
         }
       ]
