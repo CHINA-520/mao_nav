@@ -819,35 +819,6 @@ export const mockData = {
           "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754526555205.png"
         }
       ]
-    },
-    {
-      "id": "category-1754988620475",
-      "icon": "👓️",
-      "name": "畅快观影",
-      "order": 15,
-      "sites": [
-        {
-          "id": "site-1754988787870",
-          "name": "123av",
-          "url": "https://123av.ws/en/dm4/tags/fc2",
-          "description": "FC2影音",
-          "icon": "https://favicon.zhusl.com/ico?url=https://missav.ws"
-        },
-        {
-          "id": "site-1754988868803",
-          "name": "javtiful",
-          "url": "https://javtiful.com/uncensored",
-          "description": "最新未经审查的视频",
-          "icon": "https://favicon.zhusl.com/ico?url=https://missav.ws"
-        },
-        {
-          "id": "site-1754988932923",
-          "name": "missav",
-          "url": "https://missav.ws/dm22/en",
-          "description": "为您推荐",
-          "icon": "https://favicon.zhusl.com/ico?url=https://missav.ws"
-        }
-      ]
     }
   ],
   "title": "个人书签"
