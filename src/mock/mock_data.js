@@ -79,10 +79,60 @@ export const mockData = {
       ]
     },
     {
+      "id": "ai-tools",
+      "name": "AI智能助手",
+      "icon": "🤖",
+      "order": 1,
+      "sites": [
+        {
+          "id": "site-1754404845488",
+          "name": "DeepSeek",
+          "url": "https://ai-chatbot.top/",
+          "description": "完全免费且无限制使用",
+          "icon": "/sitelogo/ai-chatbot.top.ico"
+        },
+        {
+          "id": "site-1754420682384",
+          "name": "Copilot",
+          "url": "https://copilot.microsoft.com",
+          "description": "你的微软AI助手",
+          "icon": "/sitelogo/copilot.microsoft.com.ico"
+        },
+        {
+          "id": "chatgpt",
+          "name": "ChatGPT",
+          "url": "https://chat.openai.com",
+          "description": "OpenAI对话AI助手",
+          "icon": "/sitelogo/chat.openai.com.ico"
+        },
+        {
+          "id": "claude",
+          "name": "Claude",
+          "url": "https://claude.ai",
+          "description": "Anthropic AI助手",
+          "icon": "/sitelogo/claude.ai.ico"
+        },
+        {
+          "id": "midjourney",
+          "name": "Midjourney",
+          "url": "https://www.midjourney.com",
+          "description": "AI图像生成工具",
+          "icon": "/sitelogo/www.midjourney.com.ico"
+        },
+        {
+          "id": "cursor",
+          "name": "Cursor",
+          "url": "https://cursor.sh",
+          "description": "AI代码编辑器",
+          "icon": "/sitelogo/cursor.sh.ico"
+        }
+      ]
+    },
+    {
       "id": "category-1754403048006",
       "icon": "🌐",
       "name": "软件工具",
-      "order": 1,
+      "order": 2,
       "sites": [
         {
           "id": "site-1760363081210",
@@ -174,14 +224,13 @@ export const mockData = {
       "id": "category-1755240024547",
       "icon": "⚙️",
       "name": "网络相关",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
-          "id": "site-1760361490047",
-          "name": "您的IP地址",
-          "url": "https://ip77.net/myip",
-          "description": "快速查看您的公网IP地址和位置信息",
-          "icon": "https://nav-8yo.pages.dev/assets/favicon_1759654658036.png"
+          "id": "site-1767962392986",
+          "name": " IP 信息",
+          "url": "https://ipcheck.ing/#/",
+          "description": ""
         },
         {
           "id": "site-1754403148612",
@@ -189,6 +238,13 @@ export const mockData = {
           "url": "https://iplark.com/search",
           "description": "高精度IP归属地查询工具",
           "icon": "/sitelogo/iplark.com.ico"
+        },
+        {
+          "id": "site-1760361490047",
+          "name": "您的IP地址",
+          "url": "https://ip77.net/myip",
+          "description": "快速查看您的公网IP地址和位置信息",
+          "icon": "https://nav-8yo.pages.dev/assets/favicon_1759654658036.png"
         },
         {
           "id": "site-1760361709162",
@@ -266,7 +322,7 @@ export const mockData = {
       "id": "category-1754405051851",
       "icon": "🏦",
       "name": "网银钱包",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "site-1754405371549",
@@ -323,56 +379,6 @@ export const mockData = {
           "url": "https://id.wirexapp.com/login",
           "description": "Wirex数字货币交易平台",
           "icon": "/sitelogo/id.wirexapp.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "ai-tools",
-      "name": "AI智能助手",
-      "icon": "🤖",
-      "order": 4,
-      "sites": [
-        {
-          "id": "site-1754404845488",
-          "name": "DeepSeek",
-          "url": "https://ai-chatbot.top/",
-          "description": "完全免费且无限制使用",
-          "icon": "/sitelogo/ai-chatbot.top.ico"
-        },
-        {
-          "id": "site-1754420682384",
-          "name": "Copilot",
-          "url": "https://copilot.microsoft.com",
-          "description": "你的微软AI助手",
-          "icon": "/sitelogo/copilot.microsoft.com.ico"
-        },
-        {
-          "id": "chatgpt",
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "OpenAI对话AI助手",
-          "icon": "/sitelogo/chat.openai.com.ico"
-        },
-        {
-          "id": "claude",
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Anthropic AI助手",
-          "icon": "/sitelogo/claude.ai.ico"
-        },
-        {
-          "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI图像生成工具",
-          "icon": "/sitelogo/www.midjourney.com.ico"
-        },
-        {
-          "id": "cursor",
-          "name": "Cursor",
-          "url": "https://cursor.sh",
-          "description": "AI代码编辑器",
-          "icon": "/sitelogo/cursor.sh.ico"
         }
       ]
     },
