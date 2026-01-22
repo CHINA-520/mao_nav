@@ -75,13 +75,6 @@ export const mockData = {
           "url": "https://sub.mokevin.dpdns.org",
           "description": "管理您的订阅提醒",
           "icon": "https://img.icons8.com/ios-filled/150/228BE6/reminders.png"
-        },
-        {
-          "id": "site-1769090584546",
-          "name": "MISUB",
-          "url": "https://sub.778652.xyz/login",
-          "description": "一个功能强大、界面精美的订阅管理与转换工具",
-          "icon": "https://favicon.is/sub.778652.xyz?larger=true"
         }
       ]
     },
