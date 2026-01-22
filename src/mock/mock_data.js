@@ -95,15 +95,22 @@ export const mockData = {
           "id": "site-1754404845488",
           "name": "DeepSeek",
           "url": "https://ai-chatbot.top/",
-          "description": "完全免费且无限制使用",
+          "description": "满血版DeepSeek，支持实时对话、深度思考和联网搜索。完全免费且无限制使用。",
           "icon": "/sitelogo/ai-chatbot.top.ico"
         },
         {
           "id": "site-1754420682384",
           "name": "Copilot",
           "url": "https://copilot.microsoft.com",
-          "description": "你的微软AI助手",
+          "description": "微软“Copilot”是您的贴心伙伴，能为您提供信息、带来娱乐并激发灵感。您可以获取建议、获得反馈以及得到简洁明了的答案。",
           "icon": "/sitelogo/copilot.microsoft.com.ico"
+        },
+        {
+          "id": "site-1769077454664",
+          "name": "Grok",
+          "url": "https://grok.com",
+          "description": "Grok 是埃隆·马斯克旗下 xAI 公司开发的人工智能大模型系列，首发于 2023 年 11 月，目前已迭代到 Grok 4.1。它以“实时联网、幽默风格和强大推理能力”著称，被视为 ChatGPT、Gemini 等模型的竞争对手。",
+          "icon": "https://nav.778652.xyz/assets/favicon_1768052100631.png"
         },
         {
           "id": "chatgpt",
@@ -113,25 +120,11 @@ export const mockData = {
           "icon": "/sitelogo/chat.openai.com.ico"
         },
         {
-          "id": "claude",
-          "name": "Claude",
-          "url": "https://claude.ai",
-          "description": "Anthropic AI助手",
-          "icon": "/sitelogo/claude.ai.ico"
-        },
-        {
-          "id": "midjourney",
-          "name": "Midjourney",
-          "url": "https://www.midjourney.com",
-          "description": "AI图像生成工具",
-          "icon": "/sitelogo/www.midjourney.com.ico"
-        },
-        {
-          "id": "cursor",
-          "name": "Cursor",
-          "url": "https://cursor.sh",
-          "description": "AI代码编辑器",
-          "icon": "/sitelogo/cursor.sh.ico"
+          "id": "site-1769077515582",
+          "name": "Gemini",
+          "url": "https://gemini.google.com/app",
+          "description": "Google 的新一代生成式 AI 助理（generative AI assistant）的核心使用页面，取代了之前的 Bard（2024 年 Bard 正式更名为 Gemini）",
+          "icon": "https://nav.778652.xyz/assets/favicon_1769012872339.png"
         }
       ]
     },
