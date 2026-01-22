@@ -25,7 +25,7 @@ export const mockData = {
           "name": "google表格",
           "url": "https://docs.google.com/spreadsheets/u/0/",
           "description": "电子表格应用服务",
-          "icon": "https://navsphere-9j8.pages.dev/assets/favicon_1754509296470.ico"
+          "icon": "https://nav.778652.xyz/assets/img_1768042740172.png"
         },
         {
           "id": "site-1754404628851",
@@ -75,6 +75,13 @@ export const mockData = {
           "url": "https://sub.mokevin.dpdns.org",
           "description": "管理您的订阅提醒",
           "icon": "https://img.icons8.com/ios-filled/150/228BE6/reminders.png"
+        },
+        {
+          "id": "site-1769077185945",
+          "name": "MISUB",
+          "url": "https://sub.778652.xyz/login",
+          "description": "一个功能强大、界面精美的订阅管理与转换工具",
+          "icon": "https://nav.778652.xyz/assets/img_1768054742498.png"
         }
       ]
     },
