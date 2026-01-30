@@ -75,6 +75,20 @@ export const mockData = {
           "url": "https://sub.mokevin.dpdns.org",
           "description": "管理您的订阅提醒",
           "icon": "https://img.icons8.com/ios-filled/150/228BE6/reminders.png"
+        },
+        {
+          "id": "site-1769736244107",
+          "name": "MISUB",
+          "url": "https://sub.778652.xyz/login",
+          "description": "一个功能强大、界面精美的订阅管理与转换工具",
+          "icon": "https://nav.778652.xyz/assets/img_1768054742498.png"
+        },
+        {
+          "id": "site-1769736302365",
+          "name": "订阅链接转换工具",
+          "url": "https://sublink.778652.xyz",
+          "description": "轻松转换和优化您的订阅链接。",
+          "icon": "https://nav.778652.xyz/assets/favicon_1769718235433.ico"
         }
       ]
     },
